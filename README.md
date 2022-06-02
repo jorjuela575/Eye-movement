@@ -1,5 +1,5 @@
 # Eye-movement
-Couple of eyes watching you through my website. you better be careful someone is watching you.
+Couple of eyes watching you through my website. you better be careful someone is watching you. this porject joins the skills of a basic HTML with a Javascript for a small internactive project.
 
 # 💻Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
